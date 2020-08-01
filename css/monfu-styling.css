@@ -92,3 +92,17 @@ footer p{
 	margin: 0;
 }
 
+footer a{
+	color: white;
+	background-color: transparent;
+}
+
+footer a:hover{
+	opacity: 0.5;
+}
+
+
+
+
+
+
