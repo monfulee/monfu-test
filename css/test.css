@@ -1,0 +1,22 @@
+body{
+	margin: 0;
+}
+
+.container{
+	position: relative;
+}
+
+.center{
+	color: red;
+	position: absolute;
+	top: 50%;
+	width: 100%;
+	text-align: center;
+	font-size: 25px;
+}
+
+img{
+	width: 100%;
+	height: auto;
+	opacity: 0.5;
+}
